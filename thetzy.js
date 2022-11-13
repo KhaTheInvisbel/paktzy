@@ -20,14 +20,14 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/chanel/@pannmods'
-global.ig = 'https://www.instagram.com/reel/Cc915M2JRzd/?igshid=YmMyMTA2M2Y='
-global.mygc = 'https://chat.whatsapp.com/Gv1D2edigPo1Jrqum2Ekou'
-global.myweb = 'https://youtube.com/playlist?list=PLfnx8zXCmgN0FtxAZDhJMo-cHJozuvZGz'
-global.linkgrupss = "https://chat.whatsapp.com/Jh7zaCSnPCBC4gdYOEVm0K"
+global.youtube = 'https://www.instagram.com/Shintya_'
+global.ig = 'https://www.instagram.com/Shintya_'
+global.mygc = 'https://www.instagram.com/Shintya_'
+global.myweb = 'https://www.instagram.com/Shintya_'
+global.linkgrupss = "https://www.instagram.com/Shintya_"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
 global.linkun = 'mailto:support@whatsapp.com?subject=Account%20Locked&body=Good%20Afternoon%20I%20Have%20A%20Problem%20Account%20Is%20Locked,%20I%20Spam%20Nothing%20But%20My%20Account%20Suddenly%20Locked,%20Please%20Reactivate%20This%20Number:%20[+62xxxxxx]'
-global.email = 'TheZyrenn@gmail.com'
+global.email = 'Shintyaaa@gmail.com'
 global.ntidel = ['120363043965529911@g.us']
 global.wlcm = []
 global.wlcmm = []
@@ -40,16 +40,16 @@ global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '𝐏𝐀𝐍𝐍 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ️' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = '[⫹⫺ - 𝐏𝐀𝐍𝐍 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ️]' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = '𝐏𝐫𝐢𝐝𝐞 - 𝐓𝐳𝐲 ϟ' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '𝐒𝐇𝐈𝐍𝐓𝐘𝐀 𝐒𝐈𝐆𝐍𝐄𝐃 𝐄𝐑𝐑𝐎𝐑 ダフ ダフ️' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = '[⫹⫺ - 𝐒𝐇𝐈𝐍𝐓𝐘𝐀 𝐒𝐈𝐆𝐍𝐄𝐃 𝐄𝐑𝐑𝐎𝐑 ダフ ダフ️]' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = '𝐒𝐇𝐈𝐍𝐓𝐘𝐀 𝐒𝐈𝐆𝐍𝐄𝐃 𝐄𝐑𝐑𝐎𝐑 ✞︎✞︎ - 𝐓𝐳𝐲 ϟ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6285888826955']
-global.premium = ['6285888826955']
-global.packname = '𝐏𝐫𝐢𝐝𝐞 - 𝐓𝐳𝐲 ϟ'
-global.ownerr = ['𝐏𝐀𝐍𝐍 𝐓𝐇𝐄 𝐄𝐌𝐏𝐄𝐑𝐎𝐑 𝐒𝐈𝐆𝐍𝐄𝐃 ダフ️']
-global.author = '[⫹⫺ - 㑒 𝐏𝐚𝐤 - 𝐓𝐳𝐲 ϟ〽️]'
+global.owner = ['6283112471048']
+global.premium = ['6283112471048']
+global.packname = '𝐒𝐇𝐈𝐍𝐓𝐘𝐀 𝐒𝐈𝐆𝐍𝐄𝐃 𝐄𝐑𝐑𝐎𝐑 ダフ - 𝐓𝐳𝐲 ϟ'
+global.ownerr = ['𝐒𝐇𝐈𝐍𝐓𝐘𝐀 𝐒𝐈𝐆𝐍𝐄𝐃 𝐄𝐑𝐑𝐎𝐑 ダフ ダフ️']
+global.author = '[⫹⫺ - 㑒 𝐒𝐇𝐈𝐍𝐓𝐘𝐀 ダフ - 𝐓𝐳𝐲 ϟ〽️]'
 global.sessionName = './sessionye/paktzy'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
@@ -74,10 +74,10 @@ global.limitawal = {
    potionawal: 1
 }
 //=================================================//
-global.thumb = { url: 'https://telegra.ph/file/c2e84a4776ee6c47aa3a5.jpg' }
+global.thumb = { url: 'https://telegra.ph/file/7d4dc46a23e14e1b7a58d.jpg' }
 global.visoka = { url: 'https://a.uguu.se/fVFNCwix.mp4' }
 global.menuimg = { url: 'https://a.uguu.se/fVFNCwix.mp4' }
-global.zy = { url: 'https://telegra.ph/file/842cc1a7658a1c2b94c0c.jpg' }
+global.zy = { url: 'https://telegra.ph/file/7d4dc46a23e14e1b7a58d.jpg' }
 global.log0 = fs.readFileSync("./basetzy/gambarnye/thezyren.jpg")
 //=================================================//
 let file = require.resolve(__filename)
