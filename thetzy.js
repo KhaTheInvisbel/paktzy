@@ -45,12 +45,12 @@ global.botname = '[⫹⫺ - 𝐒𝐇𝐈𝐍𝐓𝐘𝐀 𝐒𝐈𝐆𝐍𝐄�
 global.footer = '𝐒𝐇𝐈𝐍𝐓𝐘𝐀 𝐒𝐈𝐆𝐍𝐄𝐃 𝐄𝐑𝐑𝐎𝐑 ✞︎✞︎ - 𝐓𝐳𝐲 ϟ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6283112471048']
-global.premium = ['6283112471048']
+global.owner = ['62895386209243']
+global.premium = ['62895386209243']
 global.packname = '𝐒𝐇𝐈𝐍𝐓𝐘𝐀 𝐒𝐈𝐆𝐍𝐄𝐃 𝐄𝐑𝐑𝐎𝐑 ダフ - 𝐓𝐳𝐲 ϟ'
 global.ownerr = ['𝐒𝐇𝐈𝐍𝐓𝐘𝐀 𝐒𝐈𝐆𝐍𝐄𝐃 𝐄𝐑𝐑𝐎𝐑 ダフ ダフ️']
 global.author = '[⫹⫺ - 㑒 𝐒𝐇𝐈𝐍𝐓𝐘𝐀 ダフ - 𝐓𝐳𝐲 ϟ〽️]'
-global.sessionName = './sessionye/paktzy'
+global.sessionName = './sessionye/session'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
